@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+
+# Facturi reale (date confidențiale)
+backend/samples/private/
+
+# Node
+node_modules/
+dist/
+*.local
+.env
